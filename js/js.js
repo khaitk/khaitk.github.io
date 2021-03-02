@@ -42,8 +42,6 @@ email.onmouseout = function(){
     document.getElementById('gmail').remove();
 }
 
-//da xog
-
 address.onmouseover = function(){
     var name = document.createElement('div');
     name.setAttribute('id', 'diachi');
